@@ -21,11 +21,11 @@ Installation:
 The repository consists of Python Code used for analysis and web scrapping of financial market news along with hyper-parameter tuned Recurrent Neural Netowrks - LSTM models used for stock price prediction usign Yahoo Finance stock market data and market sentiment scores.
 
 Data Used:
-Kaggle Sun, J. (2016, August). Daily News for Stock Market Prediction, Version 1. Retrieved [12-08-2020] from https://www.kaggle.com/aaron7sun/stocknews
-Yahoo Finance Stock Market Data
-FinViz Data (Used for market sentiment analysis)
-The Motley Fool Data (Used for market sentiment analysis)
-Twitter Data (Used for market sentiment analysis)
+1) Kaggle Sun, J. (2016, August). Daily News for Stock Market Prediction, Version 1. Retrieved [12-08-2020] from https://www.kaggle.com/aaron7sun/stocknews
+2) Yahoo Finance Stock Market Data
+3) FinViz Data (Used for market sentiment analysis)
+4) The Motley Fool Data (Used for market sentiment analysis)
+5) Twitter Data (Used for market sentiment analysis)
 
 Credits: 
 1) Aditya Tornekar
